@@ -4,6 +4,7 @@
 With the increasingly aging population living alone, this poses a higher risk for the vulnerable population getting into incidents without being known. The use of technology will help monitor the vulnerable, allow SCDF and CFRs to make better decisions and make sense of the environment. Our team proposed a Thermal Imaging System along with a Smart Voice Assistant and Smart IoT Locks to accurately identify the root cause of the incident and provide aid in the CFR’s sense-making at the onset of incidents and how we can better mobilise them in emergency situations (time-saving).
 
 ### b. Pitch Video
+[![Rescuers_Pitch_Video](https://img.youtube.com/vi/h7n4D4pGYtQ/0.jpg)](https://www.youtube.com/watch?v=h7n4D4pGYtQ)
 
 ### c. Architecture
 ![sample_flow](sample_flow.png)
