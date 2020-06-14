@@ -20,7 +20,7 @@ The Smart IoT Locks are required to be installed on the doors of all the vulnera
 
 ### f. Getting started
 1. Install Node-Red - https://developer.ibm.com/gettingstarted/node-red/
-2. Import this (node_red_draft_import.txt) text file in this repository
+2. Import this `node_red_draft_import.txt` file in this repository
 
 ### g. Tests
 NIL
