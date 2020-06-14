@@ -8,6 +8,13 @@ Key issues we are targeting would be to aid in the CFR’s sense-making at the o
 ### c. Architecture
 ![sample_flow](sample_flow.png)
 
+### d. Hyperlink
+
+### e. Project Roadmap
+
+### f. Getting started
+How to install (KIV)
+
 
 
 
