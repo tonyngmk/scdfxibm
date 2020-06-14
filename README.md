@@ -16,7 +16,7 @@ We would like to propose a thermal imaging system that accurately identifies ins
 The Smart IoT Locks are required to be installed on the doors of all the vulnerable. The token received from the app is to be used to open the door. This ensures that only authorized, and verified (in terms of identification) people are allowed to enter the homes and perform any saving acts. 
 
 ### e. Project Roadmap
-KIV
+![sample_timeline](sample_timeline.png)
 
 ### f. Getting started
 How to install (KIV)
