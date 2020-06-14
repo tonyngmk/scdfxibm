@@ -1,7 +1,15 @@
 # Rescuers
 
-### a. Summary, Situational Analysis and Key Issues
+### a. Short description
 Key issues we are targeting would be to aid in the CFR’s sense-making at the onset of incidents and how we can better mobilise them in emergency situations. 
+
+### b. Pitch Video
+
+### c. Architecture
+![sample_flow](sample_flow.png)
+
+
+
 
 ### b. Strategy and Recommendations
 We would like to target the problem from two perspectives - within and outside of the house.
