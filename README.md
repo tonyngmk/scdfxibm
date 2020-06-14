@@ -19,14 +19,17 @@ The Smart IoT Locks are required to be installed on the doors of all the vulnera
 ![sample_timeline](sample_timeline.png)
 
 ### f. Getting started
-How to install (KIV)
+1. Install Node-Red - https://developer.ibm.com/gettingstarted/node-red/
+2. Import this `node_red_draft_import` text file
 
 ### g. Tests
+NIL
 
 ### h. Live demo
+NIL
 
 ### i. Build
-NIL!!!
+NIL
 
 
 
